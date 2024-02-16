@@ -1,38 +1,38 @@
 # GO-gin-development: Building APIs with Gin and Hexagonal Architecture
 his repository showcases the development of a robust API built using the powerful Gin framework for Go. It adheres to the well-established principles of Hexagonal Architecture for clean, maintainable, and testable code. PostgreSQL acts as the database backend, seamlessly integrated through the convenient GORM library.
 
-Key Features:
+# Key Features:
 
 Expressive and performant API: Leveraging Gin's intuitive design and optimization techniques, you can implement RESTful APIs with ease.
 Clean code structure: Hexagonal Architecture ensures a clear separation of concerns, promoting modularity and long-term sustainability.
 Data persistence: PostgreSQL offers a reliable and scalable solution for your data storage needs.
 Efficient ORM: GORM streamlines interactions with PostgreSQL, reducing boilerplate code and simplifying database operations.
 
-Getting Started:
+# Getting Started:
 
 Prerequisites:
 
 Go: Ensure you have a compatible version of Go installed (https://go.dev/doc/install).
 PostgreSQL: Set up a PostgreSQL server ([[invalid URL removed]]([invalid URL removed])) and create a database.
 
-Clone the repository:
+1. Clone the repository:
 
 ```Bash
 git clone https://github.com/bnk4real/go-gin-development.git
 ```
 
-Install dependencies:
+2. Install dependencies:
 
 ```Bash
 cd go-gin-development
 go mod download
 ```
 
-Configure database:
+3. Configure database:
 
 Update the configuration file .env.locals with your PostgreSQL connection details.
 
-Run the application:
+4. Run the application:
 
 Additional Notes:
 
