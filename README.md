@@ -42,6 +42,7 @@ Additional Notes:
 - If you have a CI/CD pipeline, incorporate information about automated builds and deployments.
 
 Further Resources:
+
 Gin framework: https://gin-gonic.com/
 PostgreSQL: https://www.postgresql.org/
 GORM: https://gorm.io/
